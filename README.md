@@ -74,6 +74,9 @@
 </p>
 
 </br></br></br></br></br>
+
+<!--- react js --->
+
 <h2>Have A look at some of my projects (expand each section to view my projects)</h2>
 
 <h2>ReactJS Projects <img src="https://miro.medium.com/max/700/1*dLaDL-lSN0iprzmOpmM7zQ.png" alt="react" width="250" height="250"/>
