@@ -15,12 +15,12 @@
 
 - 💬 Ask me about **MERN Stack , Python , SQL**
 
-- 📫 you can to reach me on **vivekreddykasireddy@gmail.com** <a href="mailto:vivekreddykasireddy@gmail.com"><img width="100" height="100" src="https://cdn.dribbble.com/users/2113992/screenshots/14510264/gmail_animation.gif"></a> 
+- 📫 you can to reach me on **deep2dipankar@gmail.com** <a href="mailto:deep2dipankar@gmail.com"><img width="100" height="100" src="https://cdn.dribbble.com/users/2113992/screenshots/14510264/gmail_animation.gif"></a> 
 
 </br>
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/dipankarmajee1995/" target="blank"><img align="center" width="100" height="100" src="http://media-cache-ec0.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.jpg" alt="vivek reddy kasireddy" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dipankarmajee1995/" target="blank"><img align="center" width="100" height="100" src="http://media-cache-ec0.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.jpg" alt="dipankar majee" height="30" width="40" /></a>
 </p> -->
 </br>
 <h2 align="center">Languages and Tools:</h2> </br>
@@ -61,16 +61,16 @@
 </br>
 <h2 align="center">Git Hub Profile</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kasivivekkasivivek&show_icons=true&theme=tokyonight&title_color=e60a0a&bg_color=e0f3f5&locale=en&layout=compact" alt="kasivivekkasivivek" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipankarmajee&show_icons=true&theme=tokyonight&title_color=e60a0a&bg_color=e0f3f5&locale=en&layout=compact" alt="dipankarmajee" /></p>
 </br>
   </br></br></br>
-<p>&nbsp; </br></br></br></br> <img align="center" src="https://github-readme-stats.vercel.app/api?username=kasivivekkasivivek&show_icons=true&theme=dark&locale=en" alt="kasivivekkasivivek" /></p>
+<p>&nbsp; </br></br></br></br> <img align="center" src="https://github-readme-stats.vercel.app/api?username=dipankarmajee&show_icons=true&theme=dark&locale=en" alt="dipankarmajee" /></p>
 </br>
   
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kasivivekkasivivek&theme=dark" alt="kasivivekkasivivek" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipankarmajee&theme=dark" alt="dipankarmajee" /></p>
 </br>
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=kasivivekkasivivek&label=Profile%20views&color=dc091e&style=plastic" alt="kasivivekkasivivek" /> 
+  <img src="https://komarev.com/ghpvc/?username=dipankarmajee&label=Profile%20views&color=dc091e&style=plastic" alt="dipankarmajee" /> 
 </p>
 
 </br></br></br></br></br>
