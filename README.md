@@ -75,7 +75,7 @@
 
 </br></br></br></br></br>
 
-<!--- react js --->
+<!---
 
 <h2>Have A look at some of my projects (expand each section to view my projects)</h2>
 
@@ -671,6 +671,7 @@
 </details>  
 <hr>
 
+ --->
 
 
 
